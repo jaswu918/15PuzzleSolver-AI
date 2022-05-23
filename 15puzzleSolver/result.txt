@@ -1,0 +1,10 @@
+A* Search: 
+[[1, 2, 3, 4] 
+ [0, 6, 7, 8] 
+ [5, 9, 11, 12] 
+ [13, 10, 14, 15]]
+S E S E E 
+A* Search Nodes: 405
+BFS: 
+S E S E E 
+BFS Nodes: 809
